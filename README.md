@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkvssankar%2Fkvssankar&psig=AOvVaw3ZC4lGt3EkpjoNSHuRrJSV&ust=1673196848196000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICKiZD2tfwCFQAAAAAdAAAAABAW)" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/octo.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -85,3 +85,4 @@ I do tend to lean towards Front-end. I enjoy bringing website to life with desig
 </a>  
 </div>  
   
+
