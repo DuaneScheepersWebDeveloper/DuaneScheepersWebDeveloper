@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello my name is Duane Scheepers and I am passionate about solving coding problems through human-centered design 🤖. Curious by nature and business-minded. My goal is to grow as a Software Engineer🧑‍💻 , Ive always had a keen interest in technology and feel at home coding for hours.
+### <div align="center">Hello there 👋 my name is Duane Scheepers and I am passionate about solving coding problems through human-centered design 🤖. Curious by nature and business-minded. My goal is to grow as a Software Engineer🧑‍💻 , Ive always had a keen interest in technology and feel at home coding for hours.
 
  I have previously also completed an online Udemy Full Stack developer Bootcamp with Angela Yu to learn the basics of web development such as HTML, CSS, Javascript, Node and React .
 
