@@ -88,4 +88,6 @@ I do tend to lean towards Front-end. I enjoy bringing website to life with desig
 </a>  
 </div>  
   
-
+<div align="center">
+<img src="https://www.dowo.digital/2019/wp-content/uploads/2020/01/webdesigntransparent.gif" align="center" style="width: 100%" />
+</div>  
