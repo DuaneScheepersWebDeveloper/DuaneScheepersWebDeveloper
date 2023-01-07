@@ -68,7 +68,7 @@ I do tend to lean towards Front-end. I enjoy bringing website to life with desig
 </div>
 
 </td></tr></table>  
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duaneScheeperswebdeveloper&show_icons=true&locale=en&layout=compact&theme=dark" alt="duaneScheeperswebdeveloper " /></p>
 <br/>  
 
 
