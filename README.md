@@ -13,7 +13,7 @@ I do tend to lean towards Front-end. I enjoy bringing website to life with desig
 
 - 🔭 I am in the process of completing a Software Engineering course through Codespace.🦾  
   
-- 👨‍💻 All of my projects are available at: [https://github.com/JustInTimez?tab=repositories](https://github.com/DuaneScheepersWebDeveloper?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/DuaneScheepersWebDeveloper?tab=repositories](https://github.com/DuaneScheepersWebDeveloper?tab=repositories)
 
 - 📄 Check out my website at : [https://github.com/DuaneScheepersWebDeveloper/Duane-Scheepers-Personal-Resume](https://duanescheeperswebdeveloper.github.io/Duane-Scheepers-Personal-Resume/)
 
