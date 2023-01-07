@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.skilltouchng.com/images/compschool_tabs/full-stack-developer%20abuja%20learnwebdevelopment%20fast.png" align="center" style="width: 60%" />
+<img src="https://www.skilltouchng.com/images/compschool_tabs/full-stack-developer%20abuja%20learnwebdevelopment%20fast.png" align="center" style="width: 100%" />
 </div>  
   
 
