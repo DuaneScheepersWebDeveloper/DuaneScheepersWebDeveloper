@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/C4D16AQHh8gBdew1VTQ/profile-displaybackgroundimage-shrink_350_1400/0/1659031849574?e=1678320000&v=beta&t=4pyMjii-0-DUS-LJaROc6U6mwtwqLDLuSwTJX1JhMbo" align="center" style="width: 60%" />
+<img src="https://techgenix.com/tgwordpress/wp-content/uploads/2018/08/full-stack-developer-Shutterstock.jpg" align="center" style="width: 60%" />
 </div>  
   
 
