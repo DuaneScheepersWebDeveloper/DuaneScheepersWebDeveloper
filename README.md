@@ -51,7 +51,6 @@ I do tend to lean towards Front-end. I enjoy bringing website to life with desig
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
@@ -74,6 +73,9 @@ I do tend to lean towards Front-end. I enjoy bringing website to life with desig
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duaneScheeperswebdeveloper&show_icons=true&locale=en&layout=compact&theme=dark" alt="duaneScheeperswebdeveloper " /></p>
 <br/>  
 
+<div align="center">
+<img src="https://www.dowo.digital/2019/wp-content/uploads/2020/01/webdesigntransparent.gif" align="center" style="width: 30%" />
+</div>  
 
 ## Connect with me  
 <div align="center">
@@ -88,6 +90,4 @@ I do tend to lean towards Front-end. I enjoy bringing website to life with desig
 </a>  
 </div>  
   
-<div align="center">
-<img src="https://www.dowo.digital/2019/wp-content/uploads/2020/01/webdesigntransparent.gif" align="center" style="width: 30%" />
-</div>  
+
