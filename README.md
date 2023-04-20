@@ -7,7 +7,6 @@
 
  I have previously also completed an online Udemy Full Stack developer Bootcamp with Angela Yu to learn the basics of web development such as HTML, CSS, Javascript, Node and React .
 
-I do tend to lean towards Front-end. I enjoy bringing website to life with design and function.
 </div>  
   
 
