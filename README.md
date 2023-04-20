@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 - I am passionate about Martial Arts. I practice Brazilian Jujitsu 🥋 and Muay Thai 🥊 
-- 
+
 <br/>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duaneScheeperswebdeveloper&theme=dark" alt="justintimez" /></p>
 
