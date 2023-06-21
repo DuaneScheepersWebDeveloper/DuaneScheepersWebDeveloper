@@ -84,6 +84,8 @@ https://www.udemy.com/share/101vEs3@S3cM5P0h68TlaXzLKCJQxy27sddw7gJ9SNMAsQA1FhDz
 <img src="https://www.dowo.digital/2019/wp-content/uploads/2020/01/webdesigntransparent.gif" align="center" style="width: 30%" />
 </div>  
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=duaneScheeperswebdeveloper&show_icons=true&locale=en&theme=dark" alt="duaneScheeperswebdeveloper" /></p>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Duane Scheepers" target="_blank">
