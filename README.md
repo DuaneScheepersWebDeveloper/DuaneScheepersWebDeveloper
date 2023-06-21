@@ -20,6 +20,9 @@
   
 - I am passionate about Martial Arts. I practice Brazilian Jujitsu 🥋 and Muay Thai 🥊 
 
+-🇨#️ Currently learning C# on Udemy with the Complete C# MasterClass 
+https://www.udemy.com/share/101vEs3@S3cM5P0h68TlaXzLKCJQxy27sddw7gJ9SNMAsQA1FhDzbAjtSpuNEQVMwpJAUNQtFQ==/
+
 <br/>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duaneScheeperswebdeveloper&theme=dark" alt="justintimez" /></p>
 
