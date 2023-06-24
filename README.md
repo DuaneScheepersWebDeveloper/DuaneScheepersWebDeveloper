@@ -18,7 +18,7 @@
 - I have previously also completed an online Udemy Full Stack developer Bootcamp with Angela Yu to learn the basics of web development such as HTML, CSS, Javascript, Node and React .
 https://www.udemy.com/share/101qYw3@pO91sFPp_znzrYCDRFOKTDotkpsLTh3mm-s0i4MEawcUdlYS7-rVtupg1O0oOlPgTg==/
 
--🇨#️ Currently learning C# on Udemy with the Complete C# MasterClass 
+- 🇨#️ Currently learning C# on Udemy with the Complete C# MasterClass 
 https://www.udemy.com/share/101vEs3@S3cM5P0h68TlaXzLKCJQxy27sddw7gJ9SNMAsQA1FhDzbAjtSpuNEQVMwpJAUNQtFQ==/
 
 <br/>  
