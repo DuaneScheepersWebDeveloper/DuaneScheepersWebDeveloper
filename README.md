@@ -4,14 +4,6 @@
 <img src="https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif" align="center" style="width: 100%" />
 </div>  
   
-
-
-<div>
- I have previously also completed an online Udemy Full Stack developer Bootcamp with Angela Yu to learn the basics of web development such as HTML, CSS, Javascript, Node and React .
-https://www.udemy.com/share/101qYw3@pO91sFPp_znzrYCDRFOKTDotkpsLTh3mm-s0i4MEawcUdlYS7-rVtupg1O0oOlPgTg==/
-</div>  
-  
-
 - 🔭 I am in the process of completing a Software Engineering course through Codespace.🦾  
   
 - 👨‍💻 All of my projects are available at: [https://github.com/DuaneScheepersWebDeveloper?tab=repositories](https://github.com/DuaneScheepersWebDeveloper?tab=repositories)
@@ -20,7 +12,10 @@ https://www.udemy.com/share/101qYw3@pO91sFPp_znzrYCDRFOKTDotkpsLTh3mm-s0i4MEawcU
 
 - ⚡ Fun fact: I use tabs over spaces  
   
-- I am passionate about Martial Arts. I practice Brazilian Jujitsu 🥋 and Muay Thai 🥊 
+- I am passionate about Martial Arts. I practice Brazilian Jujitsu 🥋 and Muay Thai 🥊
+- 
+- I have previously also completed an online Udemy Full Stack developer Bootcamp with Angela Yu to learn the basics of web development such as HTML, CSS, Javascript, Node and React .
+https://www.udemy.com/share/101qYw3@pO91sFPp_znzrYCDRFOKTDotkpsLTh3mm-s0i4MEawcUdlYS7-rVtupg1O0oOlPgTg==/
 
 -🇨#️ Currently learning C# on Udemy with the Complete C# MasterClass 
 https://www.udemy.com/share/101vEs3@S3cM5P0h68TlaXzLKCJQxy27sddw7gJ9SNMAsQA1FhDzbAjtSpuNEQVMwpJAUNQtFQ==/
