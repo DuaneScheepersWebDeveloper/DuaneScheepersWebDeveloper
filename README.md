@@ -1,9 +1,9 @@
 <div align="center">
  <div>Hello there 👋 my name is Duane Scheepers and I am passionate about solving coding problems through human-centered design 🤖. Curious by nature and business-minded. My goal is to grow as a Software Engineer🧑‍💻 , Ive always had a keen interest in technology and feel at home coding for hours.
-</div>  
+ 
  <br/>  
 <img src="https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif" align="center" style="width: 100%" />
-
+</div> 
 
 - 👨‍💻 All of my projects are available at: [https://github.com/DuaneScheepersWebDeveloper?tab=repositories](https://github.com/DuaneScheepersWebDeveloper?tab=repositories)
 
