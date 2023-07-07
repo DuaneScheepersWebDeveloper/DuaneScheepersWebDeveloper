@@ -4,7 +4,7 @@
  <br/>  
 <img src="https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif" align="center" style="width: 100%" />
 </div> 
-
+</div> 
 - 👨‍💻 All of my projects are available at: [https://github.com/DuaneScheepersWebDeveloper?tab=repositories](https://github.com/DuaneScheepersWebDeveloper?tab=repositories)
 
 - 📄 Check out my website at : [https://github.com/DuaneScheepersWebDeveloper/Duane-Scheepers-Personal-Resume](https://duanescheeperswebdeveloper.github.io/Duane-Scheepers-Personal-Resume/)
