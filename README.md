@@ -6,7 +6,7 @@
 </div> 
 </div> 
 
-- 👨‍💻 All of my projects are available at: [https://github.com/DuaneScheepersWebDeveloper?tab=repositories](https://github.com/DuaneScheepersWebDeveloper?tab=repositories)
+- 👨‍💻 All of my best projects are available at: [[https://github.com/DuaneScheepersWebDeveloper?tab=repositories](https://github.com/DuaneScheepersWebDeveloper?tab=repositories)](https://github.com/DuaneScheepersWebDeveloper?tab=stars)
 
 - 📄 Check out my website at : [https://github.com/DuaneScheepersWebDeveloper/Duane-Scheepers-Personal-Resume](https://duanescheeperswebdeveloper.github.io/Duane-Scheepers-Personal-Resume/)
 
