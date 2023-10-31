@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my best projects are available at: https://github.com/DuaneScheepersWebDeveloper?tab=stars
 
-- 📄 Check out my website at : [https://github.com/DuaneScheepersWebDeveloper/Duane-Scheepers-Personal-Resume](https://duanescheeperswebdeveloper.github.io/Duane-Scheepers-Personal-Resume/)
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 - I am passionate about Martial Arts. I practice Brazilian Jujitsu 🥋 and Muay Thai 🥊
